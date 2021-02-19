@@ -1,2 +1,0 @@
-*.appxbundle filter=lfs diff=lfs merge=lfs -text
-*.appxsym filter=lfs diff=lfs merge=lfs -text
