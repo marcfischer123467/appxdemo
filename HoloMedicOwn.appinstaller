@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://marcfischer123467.github.io/appxdemo/HoloMedicOwn.appinstaller"
-	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.9.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="holomedicown"
-		Version="1.0.0.0"
+		Version="1.0.9.0"
 		Publisher="CN=DefaultCompany"
-		Uri="https://marcfischer123467.github.io/appxdemo/HoloMedicOwn_1.0.0.0_Master_Test/HoloMedicOwn_1.0.0.0_arm64_Master.msixbundle" />
+		Uri="https://marcfischer123467.github.io/appxdemo/HoloMedicOwn_1.0.9.0_Master_Test/HoloMedicOwn_1.0.9.0_arm64_Master.appxbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="14.0.27810.0"
 			ProcessorArchitecture="arm64"
-			Uri="https://marcfischer123467.github.io/appxdemo/HoloMedicOwn_1.0.0.0_Master_Test/Dependencies/ARM64/Microsoft.VCLibs.ARM64.14.00.appx" />
+			Uri="https://marcfischer123467.github.io/appxdemo/HoloMedicOwn_1.0.9.0_Master_Test/Dependencies/ARM64/Microsoft.VCLibs.ARM64.14.00.appx" />
 	</Dependencies>
 	<UpdateSettings>
 		<OnLaunch
